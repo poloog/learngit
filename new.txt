@@ -1,6 +1,0 @@
-git is a distribute version control system.
-git is free software under the GPL
-git has a mutable index called stage.
-adasdadasd
-dsasdssdasdzz
-东方赛赛风赛弗斯df凤凰凤凰
